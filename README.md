@@ -11,14 +11,8 @@ tylerl3571@hstat.org
 * Trigonometry
 * Chemistry
 * SEP
-
-### _Schedule_
-1. Software Engineering Program
-2. Algebra 2
-3. Global History
-4. Lunch
-5. Chemistry
-6. Spanish 3
+e_
+1. Softwa 2
 7. Big History Project
 8. Weight Training
----
+--
